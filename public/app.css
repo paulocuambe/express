@@ -1,0 +1,16 @@
+body {
+  background-color: antiquewhite;
+  display: flex;
+  height: 96vh;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: brown;
+  font-size: 3rem;
+}
+
+p {
+  font-size: 1.5rem;
+}
